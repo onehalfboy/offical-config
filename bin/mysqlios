@@ -1,0 +1,2 @@
+#!/bin/sh
+mysql -ujieqian_2345_com -p'password string' -h112.74.187.90 -P3307

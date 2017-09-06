@@ -1,0 +1,2 @@
+#!/bin/sh
+mysql -uroot -prcroot -h172.16.0.57
